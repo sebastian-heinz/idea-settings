@@ -1,7 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Arrowgene.Ez2Off.Server.Reboot14'" />
+    <option name="defaultScopeName" value="Project 'Arrowgene.Ez2Off.Server.Reboot14'" />
+    <option name="SEARCH_SCOPE" value="Project 'Arrowgene.Ez2Off.Server.Reboot14'" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
   </component>
 </application>
