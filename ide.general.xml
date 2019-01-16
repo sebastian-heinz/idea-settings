@@ -11,5 +11,6 @@
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
